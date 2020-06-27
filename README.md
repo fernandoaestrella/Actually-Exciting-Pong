@@ -9,11 +9,12 @@ Some improvements made to a Pong-like game concept (single player Pong with high
 - Ball accelerates after hitting paddle
 - Ball goes redder the faster it goes
 
-Move with Left and Right arrow keys!
+Controls:
+Move with the Left and Right arrow keys and use the Up arrow key to shoot up to 4 shots.
 
 How to play:
 
 1) Download [Processing](https://processing.org/)
 2) Download and extract [starter.zip](https://github.com/fernandoaestrella/Actually-Exciting-Pong/blob/master/starter.zip)
-3) Go into starter, and run starter.pde in Processing
+3) Go into the "starter" folder, and run starter.pde in Processing
 4) Enjoy!
