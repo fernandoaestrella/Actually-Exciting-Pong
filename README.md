@@ -7,7 +7,7 @@ Some improvements made to a Pong-like game concept (single player Pong with high
 - Shot accelerates or slows ball depending on whether the ball was approaching or going away
 - Score per time calculation
 - Ball accelerates after hitting paddle
-- Ball goes redder the faster it goes
+- Ball becomes more red the faster it goes
 
 Controls:
 
